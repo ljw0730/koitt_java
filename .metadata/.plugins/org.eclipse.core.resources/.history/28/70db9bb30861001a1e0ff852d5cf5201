@@ -1,0 +1,9 @@
+package shopping_mall;
+
+public class Cart {
+	String id;
+	String product_name;
+	int price;
+	int point;
+	
+}
